@@ -75,16 +75,17 @@ We plan to support more complex JSON data structures, Protobuf and AVRO in the u
 
 Note: there are build issues with Node v16.  Use Node v14.  Known working dev environments:
 
-```Ubuntu 20.04 LTS
-node v14.19.3 (npm 6.14.17)
-yarn 1.22.19
-go 1.18```
+* Ubuntu 20.04 LTS
+* node v14.19.3 (npm 6.14.17)
+* yarn 1.22.19
+* go 1.18
 
 and
-```Ubuntu 22.04 LTS
-node v14.20.0 (npm 6.14.17)
-yarn 1.22.19
-go 1.18.2```
+
+* Ubuntu 22.04 LTS
+* node v14.20.0 (npm 6.14.17)
+* yarn 1.22.19
+* go 1.18.1
 
 A data source backend plugin consists of both frontend and backend components.
 
